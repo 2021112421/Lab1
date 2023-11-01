@@ -1,7 +1,7 @@
 import turtle as t
 
 
-
+B1=544
 print("生日快乐！")
 
 #定义star函数

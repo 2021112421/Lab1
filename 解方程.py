@@ -1,6 +1,7 @@
 
 
 x=89
+B1=1
 
 
 while True:
