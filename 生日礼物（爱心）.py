@@ -2,7 +2,7 @@ import turtle as t
 
 
 
-print("快乐！")
+print("生日快乐！")
 
 #定义star函数
 def star(p,s,c,x,y):
